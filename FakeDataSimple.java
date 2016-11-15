@@ -1,11 +1,5 @@
 package com.example.simplegraph.livegraph;
 
-import com.jjoe64.graphview.series.DataPoint;
-
-import java.util.Arrays;
-
-import static android.R.attr.left;
-
 /**
  * Created by Dave on 11/7/2016.
  */
